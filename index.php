@@ -6,18 +6,37 @@
     <link rel="stylesheet" href="champloo.css">
 </head>
 <body>
-    <div class="topnav">
-        <a class="active" href="index.php">Home</a>
-        <a href="">About</a>
-        <a href="">Stickers</a>
-        <a href="">Contact</a>
-    </div>
+    <nav>
+       
+        <ul>
+            
+            <li><a class="active" href=index.php>Home</a></li>
+            
+            <li><a href="">About</a></li>
+            
+            <li><a href="">Stickers</a></li>
+            
+            <li><a href="">Contact</a></li>
+            
+        </ul>
+     
+    </nav>
     
     <div class="hero-image">
   <div class="hero-text">
     <h1>Champloo</h1>
-    <button>Shop now</button>
+    <a href="">Shop Now</a>
   </div>
+</div>
+<div class="flex-container">
+    <div class="row">
+    <h2>Champloo Stickers</h2>
+    <p>Only the best custom-made stickers here.</p>
+    <a href="">Get Stickers</a>
+    </div>
+    <div>
+        <img src="BEANIE%20BOY%20Color.webp" alt="beanie boy">
+    </div>
 </div>
 
 </body>
