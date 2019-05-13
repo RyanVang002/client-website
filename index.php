@@ -35,9 +35,22 @@
     <a href="">Get Stickers</a>
     </div>
     <div>
-        <img src="BEANIE%20BOY%20Color.webp" alt="beanie boy">
+        <img width="400px" height="400px" src="images/BEANIE%20BOY%20Color.webp" alt="beanie boy">
+    </div>
+    <div>
+        <img width="400px" height="400px" src="images/Empty.webp" alt="empty">
+    </div>
+    <div>
+        <img width="400px" height="400px" src="images/Nice!.webp" alt="nice">
     </div>
 </div>
 
+<footer>
+   <a href="index.php">Home</a>
+    <a href="">About</a>
+    <a href="">Stickers</a>
+    <a href="">Contact</a>
+
+</footer>
 </body>
 </html>
