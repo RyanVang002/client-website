@@ -113,3 +113,7 @@ footer a {
 footer a:hover {
     color: white;
 }
+
+name {
+    background: blue;
+}

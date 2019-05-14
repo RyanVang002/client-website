@@ -12,9 +12,9 @@
             
             <li><a class="active" href=index.php>Home</a></li>
             
-            <li><a href="">About</a></li>
+            <li><a href="about.php">About</a></li>
             
-            <li><a href="">Stickers</a></li>
+            <li><a href="stickers.php">Stickers</a></li>
             
             <li><a href="contact.php">Contact</a></li>
             
@@ -47,9 +47,9 @@
 
 <footer>
    <a href="index.php">Home</a>
-    <a href="">About</a>
-    <a href="">Stickers</a>
-    <a href="">Contact</a>
+    <a href="about.php">About</a>
+    <a href="stickers.php">Stickers</a>
+    <a href="contact.php">Contact</a>
 
 </footer>
 </body>
