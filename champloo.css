@@ -82,6 +82,8 @@ body, html {
   margin: 20px;
   padding: 0;
   font-size: 30px;
+    
+    
 }
 
 .row a {
@@ -112,4 +114,28 @@ footer a {
 
 footer a:hover {
     color: white;
+}
+
+footer .footer-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Sticker Page*/
+
+.flex-stickers {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-stickers > div {
+    border: 5px solid black;
+}
+
+.flex-stickers > div p {
+    font-size: 20px;
+}
+
+.flex-stickers > div #p1 {
+    border-top: 5px solid black;
 }
