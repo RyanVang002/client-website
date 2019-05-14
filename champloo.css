@@ -116,6 +116,7 @@ footer a:hover {
     color: white;
 }
 
+<<<<<<< HEAD
 footer .footer-flex {
     display: flex;
     justify-content: space-around;
@@ -138,4 +139,8 @@ footer .footer-flex {
 
 .flex-stickers > div #p1 {
     border-top: 5px solid black;
+=======
+name {
+    background: blue;
+>>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
 }

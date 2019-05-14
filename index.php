@@ -12,13 +12,16 @@
             
             <li><a class="active" href=index.php>Home</a></li>
             
-            <li><a href="">About</a></li>
+            <li><a href="about.php">About</a></li>
             
+<<<<<<< HEAD
             <li><img width="35px" height="110px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
             
+=======
+>>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
             <li><a href="stickers.php">Stickers</a></li>
             
-            <li><a href="">Contact</a></li>
+            <li><a href="contact.php">Contact</a></li>
             
         </ul>
      
@@ -51,6 +54,7 @@
  <div class="footer-flex">
   <div>
    <a href="index.php">Home</a>
+<<<<<<< HEAD
     <a href="">About</a>
     <a href="stickers.php">Stickers</a>
     <a href="">Contact</a>
@@ -60,6 +64,12 @@
       <h2>Champloo</h2>
   </div>
     </div>
+=======
+    <a href="about.php">About</a>
+    <a href="stickers.php">Stickers</a>
+    <a href="contact.php">Contact</a>
+
+>>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
 </footer>
 </body>
 </html>
