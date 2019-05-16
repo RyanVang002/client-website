@@ -23,16 +23,22 @@
     </nav>
 
     
-    <form action="contact-info.php" method="post">
-    <div class="name">
-          First Name:<font color=red>*</font> <input type="text" name="Fname"><br>
-         Last Name:<font color=red>*</font> <input type="text" name="Lname"><br>
-     </div>
-     Email:<font color=red>*</font> <input type="text" name="Email"><br>
-     Message:<font color=red>*</font> <textarea name="Message"></textarea><br> 
-     <input type="reset" name="reset">
-     <input type="submit" name="submit" value="go"> 
-    </form>
+
+           <form action="contact-info.php" method="post">
+               <p> First Name:</p><font color=red>*</font> <input type="text" name="Fname"><br>
+               <p>Last Name:</p><font color=red>*</font> <input type="text" name="Lname"><br>
+               <p>Email:</p><font color=red>*</font> <input type="text" name="Email"><br>
+               <p>Message:</p><font color=red>*</font> <textarea name="Message"></textarea><br>
+         <input type="reset" name="reset">
+         <input type="submit" name="submit" value="go"> 
+        </form>
+        
+        <div class="infor">
+            <h2>Alternative Way To Contact</h2>
+            <p>Phone Number: (559)284-3429 </p>
+            <p>Email: Matthewchea12@gmail.com  </p>
+        </div>
+        
     <footer>
    <a href="index.php">Home</a>
     <a href="about.php">About</a>
