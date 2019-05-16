@@ -5,12 +5,17 @@
     <meta charset="UTF-8">
     <title>Contact</title>
     <link rel="stylesheet" href="champloo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
     <nav>
 
         <ul>
+            
+            <li style="float:left"><img width="50px" height="150px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
+            
+            <li style="float:left"><h2>Champloo</h2></li>
 
             <li><a href=index.php>Home</a></li>
 
@@ -25,12 +30,25 @@
     </nav>
 
     <footer>
-        <a href="index.php">Home</a>
-        <a href="about.php">About</a>
-        <a href="stickers.php">Stickers</a>
-        <a href="contact.php">Contact</a>
-
-    </footer>
+ <div class="footer-flex">
+  <div>
+   <a href="index.php">Home</a>
+    <a href="about.php">About</a>
+    <a href="stickers.php">Stickers</a>
+    <a href="contact.php">Contact</a>
+  </div>
+  
+  <div>
+       <a href="" target="_blank"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+       <a href="" target="_blank"><i class="fa fa-linkedin" style="font-size:24px"></i></a>
+       <a href="" target="_blank"><i class="fa fa-facebook" style="font-size:24px"></i></a>
+   </div>
+  
+  <div>
+      <h2><img width="25px" height="85px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"> Champloo</h2>
+  </div>
+    </div>
+</footer>
 </body>
 
 </html>

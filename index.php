@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <title>Champloo-Home</title>
     <link rel="stylesheet" href="champloo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     <nav>
        
         <ul>
+           
+            <li style="float:left"><img width="50px" height="150px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
+            
+            <li style="float:left"><h2>Champloo</h2></li>
             
             <li><a class="active" href=index.php>Home</a></li>
             
             <li><a href="about.php">About</a></li>
-            
-<<<<<<< HEAD
-            <li><img width="35px" height="110px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
-            
-=======
->>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
+
             <li><a href="stickers.php">Stickers</a></li>
             
             <li><a href="contact.php">Contact</a></li>
@@ -34,10 +34,10 @@
   </div>
 </div>
 <div class="flex-container">
-    <div class="row">
+    <div class="sticker">
     <h2>Champloo Stickers</h2>
-    <p>Only the best custom-made stickers here.</p>
-    <a href="stickers.php">Get Stickers</a>
+    <p>Get some sick custom-made stickers here.</p>
+    <a href="stickers.php">Browse Stickers</a>
     </div>
     <div>
         <img width="400px" height="400px" src="images/BEANIE%20BOY%20Color.webp" alt="beanie boy">
@@ -54,22 +54,21 @@
  <div class="footer-flex">
   <div>
    <a href="index.php">Home</a>
-<<<<<<< HEAD
-    <a href="">About</a>
-    <a href="stickers.php">Stickers</a>
-    <a href="">Contact</a>
-  </div>
-  
-  <div>
-      <h2>Champloo</h2>
-  </div>
-    </div>
-=======
     <a href="about.php">About</a>
     <a href="stickers.php">Stickers</a>
     <a href="contact.php">Contact</a>
-
->>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
+  </div>
+  
+  <div>
+       <a href="" target="_blank"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+       <a href="" target="_blank"><i class="fa fa-linkedin" style="font-size:24px"></i></a>
+       <a href="" target="_blank"><i class="fa fa-facebook" style="font-size:24px"></i></a>
+   </div>
+  
+  <div>
+      <h2><img width="25px" height="85px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"> Champloo</h2>
+  </div>
+    </div>
 </footer>
 </body>
 </html>

@@ -14,6 +14,7 @@ ul li {
     list-style: none;
     display: inline-block;
     font-size: 20px;
+    color: white;
 }
 
 li a:hover
@@ -28,10 +29,10 @@ li a.active {
 
 li a
 {
-    color: white;
     text-decoration: none;
     display: block;
     padding: 18px 17px;
+    color: white;
 }
 
 body, html {
@@ -40,7 +41,7 @@ body, html {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("logo.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("bento.webp");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -86,7 +87,7 @@ body, html {
     
 }
 
-.row a {
+.sticker a {
     background: orange;
     font-size: 30px;
     color: white;
@@ -95,14 +96,13 @@ body, html {
     font-size: 35px;
 }
 
-.row a:hover {
+.sticker a:hover {
     color: black;
 }
 
 footer {
     display: block;
     background-color: lightgray;
-    height: 100px;
 }
 
 footer a {
@@ -116,12 +116,11 @@ footer a:hover {
     color: white;
 }
 
-<<<<<<< HEAD
 footer .footer-flex {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
-
 /* Sticker Page*/
 
 .flex-stickers {
@@ -130,17 +129,13 @@ footer .footer-flex {
 }
 
 .flex-stickers > div {
-    border: 5px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+  margin: auto;
+  text-align: center;
 }
 
-.flex-stickers > div p {
-    font-size: 20px;
-}
-
-.flex-stickers > div #p1 {
-    border-top: 5px solid black;
-=======
-name {
-    background: blue;
->>>>>>> 84f9b282784700557c0f8cc22fb61882c3b83e22
+.price {
+  color: grey;
+  font-size: 22px;
 }
