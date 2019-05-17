@@ -152,3 +152,77 @@ footer .footer-flex {
   color: grey;
   font-size: 22px;
 }
+
+/* contact */
+
+textarea {
+  width: 25%;
+  height: 150px;
+  padding: 12px 25px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+input[type=text] {
+  width: 25%;
+  padding: 12px 25px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+}
+
+form{
+    display: flex;
+    flex-direction:  column;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  width:25%;
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+    background-color: orange;
+}
+
+.infor-flex {
+    width:50%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* about page */
+
+.matt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.matt > div p {
+    font-size: 30px;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
+.pop {
+    width: 400px;   
+}
+
+.chea {
+    color: white;
+    font-size: 70px
+}

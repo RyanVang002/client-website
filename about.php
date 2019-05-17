@@ -26,6 +26,16 @@
             <li><a href="contact.php">Contact</a></li>
 
         </ul>
+        
+        <h2 class="chea">Matthew Chea</h2>
+         <div class="matt">
+          <div>
+            <img class="pop" src="images/Matt%20pic.jpeg" alt="Matt Chea"> 
+            </div>
+         <div>
+             <p>Matthew has an eye for fashion and wanted to pursue his career in designing logos and products. This company has always been one of his most sought after dreams. He started to design things in the 10th grade and grew from there. He took multiple classes buisness and marketing as well.</p>
+         </div>
+     </div>
 
     </nav>
 
@@ -39,9 +49,9 @@
   </div>
   
   <div>
-       <a href="" target="_blank"><i class="fa fa-instagram" style="font-size:24px"></i></a>
-       <a href="" target="_blank"><i class="fa fa-linkedin" style="font-size:24px"></i></a>
-       <a href="" target="_blank"><i class="fa fa-facebook" style="font-size:24px"></i></a>
+       <a href="https://instagram.com/bento.stickers?igshid=5qj8gelhprww
+" target="_blank"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+       <a href="https://twitter.com/Bento_Rice" target="_blank"><i class="fa fa-twitter" style="font-size:24px"></i></a>
    </div>
   
   <div>
