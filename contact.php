@@ -5,8 +5,10 @@
     <title>Contact</title>
     <link rel="stylesheet" href="champloo.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
 </head>
 <body>
+    <script src="champloo.js"></script>
 <div class="information">
     <nav>
            
@@ -27,10 +29,9 @@
     </ul>
          
         </nav>
-    
         
     
-       <form action="contact-info.php" method="post">
+       <form name="myForm" action="contact-info.php" method="post" onsubmit="return validateForm()">
            <p> First Name:</p><font color=red>*</font> <input type="text" name="Fname"><br>
            <p>Last Name:</p><font color=red>*</font> <input type="text" name="Lname"><br>
            <p>Email:</p><font color=red>*</font> <input type="text" name="Email"><br>
