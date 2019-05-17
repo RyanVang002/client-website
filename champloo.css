@@ -17,6 +17,13 @@ ul li {
     color: white;
 }
 
+.logo {
+    width: 50px;
+    height: 150px;
+    z-index: 1;
+    position: relative;
+}
+
 li a:hover
 {
     background: orange;
@@ -41,7 +48,7 @@ body, html {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("bento.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(images/cup-noodles.png);
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -121,6 +128,12 @@ footer .footer-flex {
     justify-content: space-around;
     align-items: center;
 }
+
+@media screen and (max-width: 1132px) {
+    .flex-container {
+        flex-wrap: wrap;
+    }
+}
 /* Sticker Page*/
 
 .flex-stickers {
@@ -187,6 +200,7 @@ input[type=button], input[type=submit], input[type=reset] {
   color: grey;
   font-size: 22px;
 }
+<<<<<<< HEAD
 
 .matt {
     display: flex;
@@ -198,3 +212,5 @@ input[type=button], input[type=submit], input[type=reset] {
     width: 50%;
     
 }
+=======
+>>>>>>> d0da51f3133c1d3c59c4d433d7b5d56f8eb13ee6
