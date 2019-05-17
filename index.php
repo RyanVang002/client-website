@@ -11,11 +11,7 @@
        
         <ul>
            
-<<<<<<< HEAD
-            <li><img width="50px" height="150px" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
-=======
             <li style="float:left"><img class="logo" src="images/Champloo%20Icon%20New.png" alt="Champloo logo"></li>
->>>>>>> d0da51f3133c1d3c59c4d433d7b5d56f8eb13ee6
             
             <li style="float:left"><h2>Champloo</h2></li>
             

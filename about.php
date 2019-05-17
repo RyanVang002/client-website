@@ -33,7 +33,7 @@
           <div><h2>Matthew Chea</h2>
                        <img class="pop" src="images/Matt%20pic.jpeg" alt="picture of Matt"> </div>
          <div>
-             <p>Matthew has an eye for fashion and wanted to purse his career in designing logos and products. This company has always been one of his most sought after dreams. He started to design things in the 10th grade and grew from there. He took multiple classes on making a buisness and marketting his product.   </p>
+             <p>Matthew has an eye for fashion and wanted to purse his career in designing logos and products. This company has always been one of his most sought after dreams. He started to design things in the 10th grade and grew from there. He took multiple classes on making a buisness and marketting his product. His design of his stickers are so amazing and they are highly durable.   </p>
          </div>
      </div>
 

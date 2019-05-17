@@ -200,7 +200,7 @@ input[type=button], input[type=submit], input[type=reset] {
   color: grey;
   font-size: 22px;
 }
-<<<<<<< HEAD
+
 
 .matt {
     display: flex;
@@ -209,8 +209,6 @@ input[type=button], input[type=submit], input[type=reset] {
 }
 
 .pop {
-    width: 50%;
+    width: 100%;
     
 }
-=======
->>>>>>> d0da51f3133c1d3c59c4d433d7b5d56f8eb13ee6
