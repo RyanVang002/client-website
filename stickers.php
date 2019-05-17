@@ -59,7 +59,7 @@
             <p class="price">$3.00</p>
         </div>
         <div>
-            <img width="300" height="300" src="images/Champloo%20Cup%20Noodle%20new.png" alt="Cup Noodles">
+            <img width="300" height="300" src="images/cup-noodles.png" alt="Cup Noodles">
             <h2>Cup Noodles</h2>
             <p class="price">$3.00</p>
         </div>
